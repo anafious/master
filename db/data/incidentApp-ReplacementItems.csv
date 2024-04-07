@@ -1,0 +1,6 @@
+ID;replacementItemsID;name;description;quantity;cost;incident_ID
+2b878df6-bd09-4c02-b0bf-76535c26459b;1;Laptop Screen;Replacement screen for laptop;1;99.99;d3f4623b-75ed-4063-93e3-b201e2de78d0
+d80f65eb-3bc5-47db-8e55-d962c6eb3dfb;2;Keyboard;Replacement keyboard for laptop;1;49.99;fb4be8bf-0579-4be5-8e11-9f2528232eed
+c8aa986e-ce0e-44d8-9b25-15f747428e37;3;Phone Screen;Replacement screen for phone;1;79.99;1f741af2-c20b-4250-94c0-f6ca506a3dbe
+a280edee-007d-4c72-9c76-282563ec70c3;4;Charger;Replacement charger for laptop;1;29.99;a0a2694f-d510-4bcf-bd85-3ee137eb5796
+5a16d982-33e4-4749-95a5-dd72e625416b;5;Mouse;Replacement mouse for computer;1;19.99;36fa59b2-ba26-463d-bd2d-2be1909ee4fb

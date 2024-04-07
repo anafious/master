@@ -1,0 +1,6 @@
+ID;incidentsID;customerName;description;dateReported;status
+d3f4623b-75ed-4063-93e3-b201e2de78d0;1;John Doe;Broken laptop screen;2021-06-27;Open
+fb4be8bf-0579-4be5-8e11-9f2528232eed;2;Jane Smith;Faulty keyboard;2021-06-28;Closed
+1f741af2-c20b-4250-94c0-f6ca506a3dbe;3;Michael Johnson;Cracked phone screen;2021-06-29;Open
+a0a2694f-d510-4bcf-bd85-3ee137eb5796;4;Emily Williams;Defective charger;2021-06-30;Open
+36fa59b2-ba26-463d-bd2d-2be1909ee4fb;5;David Brown;Malfunctioning mouse;2021-07-01;In Progress

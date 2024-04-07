@@ -1,0 +1,6 @@
+ID;prescriptionID;date;quantity;instructions;patient_ID;medicine_ID
+8e1798ef-6ff3-4cfa-be58-db1b063fdbf0;PR001;2021-06-01;2;Take 1 tablet twice daily;8e1798ef-6ff3-4cfa-be58-db1b063fdbf0;8e1798ef-6ff3-4cfa-be58-db1b063fdbf0
+830cdacc-df2e-408a-b789-d982bdfda957;PR002;2021-06-02;1;Take 1 tablet three times a day;830cdacc-df2e-408a-b789-d982bdfda957;830cdacc-df2e-408a-b789-d982bdfda957
+9315d39f-4a0b-4b71-aee5-4a6b200d17f2;PR003;2021-06-03;3;Take 1 tablet daily;9315d39f-4a0b-4b71-aee5-4a6b200d17f2;9315d39f-4a0b-4b71-aee5-4a6b200d17f2
+e4d7ddba-7965-44ab-bff9-524db8a02723;PR004;2021-06-04;1;Take 1 tablet before breakfast;e4d7ddba-7965-44ab-bff9-524db8a02723;e4d7ddba-7965-44ab-bff9-524db8a02723
+553658d1-d803-46a0-b039-515a9b113652;PR005;2021-06-05;2;Take 1 tablet as needed for pain;553658d1-d803-46a0-b039-515a9b113652;553658d1-d803-46a0-b039-515a9b113652
